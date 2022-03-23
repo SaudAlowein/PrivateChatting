@@ -1,2 +1,2 @@
-# SecureDocumentExchange
-Web-application that offers document exchanging with watermarking for leakage detection.
+# Private chatting web-app
+Web-application that offers private chatting between added friends.
